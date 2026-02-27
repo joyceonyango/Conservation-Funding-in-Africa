@@ -1,6 +1,4 @@
 # 🌍 Conservation Funding Optimization in Africa  
-### Geospatial Data Science Analysis of Biodiversity & Funding Allocation
-
 ---
 
 ## 📌 Project Overview
@@ -173,5 +171,4 @@ The project includes:
 
 ---
 
-## 📂 Repository Structure
 
